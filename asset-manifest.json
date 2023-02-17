@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auth-calculator-with-redux-toolkit/static/css/main.9fe1f2f1.css",
+    "main.js": "/auth-calculator-with-redux-toolkit/static/js/main.e8d795be.js",
+    "index.html": "/auth-calculator-with-redux-toolkit/index.html",
+    "main.9fe1f2f1.css.map": "/auth-calculator-with-redux-toolkit/static/css/main.9fe1f2f1.css.map",
+    "main.e8d795be.js.map": "/auth-calculator-with-redux-toolkit/static/js/main.e8d795be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe1f2f1.css",
+    "static/js/main.e8d795be.js"
+  ]
+}
